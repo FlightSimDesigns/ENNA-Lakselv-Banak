@@ -1,0 +1,199 @@
+<Library Version="1.1.0">
+	<Material Version="1.4.0" Name="ENNA-4" Guid="{5F65CBDF-4FCD-486A-8F2F-FD7468306D9A}" SurfaceType="PAINT" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
+		<TagList/>
+		<FlagList/>
+		<TextureList>
+			<Texture FileName="TEXTURE\ENNA_TAXINUMBERS_SQ512_4_B.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
+		</TextureList>
+		<Attributes>
+			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
+			<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
+			<UVOffset U="0.000000" V="0.000000"/>
+			<UVScale U="1.000000" V="1.000000"/>
+			<UVRotate>0.000000</UVRotate>
+			<ExtraParameters>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+			</ExtraParameters>
+		</Attributes>
+	</Material>
+	<Material Version="1.4.0" Name="ENNA-RWYAHEAD" Guid="{034DAC9C-8DF5-4815-8FF3-E7597C1AB25E}" SurfaceType="PAINT" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
+		<TagList/>
+		<FlagList/>
+		<TextureList>
+			<Texture FileName="TEXTURE\WENNA_GROUND_RWYAHEAD_512_ENLK_E.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
+		</TextureList>
+		<Attributes>
+			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
+			<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
+			<UVOffset U="0.000000" V="0.000000"/>
+			<UVScale U="1.000000" V="1.000000"/>
+			<UVRotate>0.000000</UVRotate>
+			<ExtraParameters>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+			</ExtraParameters>
+		</Attributes>
+	</Material>
+	<Material Version="1.4.0" Name="ENNA-2" Guid="{DCB33558-2358-468A-8A6F-991BFD96BAA4}" SurfaceType="PAINT" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
+		<TagList/>
+		<FlagList/>
+		<TextureList>
+			<Texture FileName="TEXTURE\ENNA_TAXINUMBERS_SQ512_2_B.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
+		</TextureList>
+		<Attributes>
+			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
+			<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
+			<UVOffset U="0.000000" V="0.000000"/>
+			<UVScale U="1.000000" V="1.000000"/>
+			<UVRotate>0.000000</UVRotate>
+			<ExtraParameters>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+			</ExtraParameters>
+		</Attributes>
+	</Material>
+	<Material Version="1.4.0" Name="ENNA-Zebra" Guid="{D0BF11C3-996D-4E05-9082-135645DDEB9F}" SurfaceType="PAINT" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
+		<TagList/>
+		<FlagList/>
+		<TextureList>
+			<Texture FileName="TEXTURE\WENNA-WHITEZEBRA2.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
+		</TextureList>
+		<Attributes>
+			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
+			<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
+			<UVOffset U="0.000000" V="0.000000"/>
+			<UVScale U="1.000000" V="1.000000"/>
+			<UVRotate>0.000000</UVRotate>
+			<ExtraParameters>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+			</ExtraParameters>
+		</Attributes>
+	</Material>
+	<Material Version="1.4.0" Name="ENNA-boundary" Guid="{050D42F8-C76D-4EC2-879C-6CE2FE522366}" SurfaceType="UNDEFINED" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
+		<TagList/>
+		<FlagList/>
+		<TextureList>
+			<Texture FileName="TEXTURE\WENNAGROUNDMARKINGS_REDWHITESTRIPE.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
+		</TextureList>
+		<Attributes>
+			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
+			<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
+			<UVOffset U="0.000000" V="0.000000"/>
+			<UVScale U="1.000000" V="1.000000"/>
+			<UVRotate>0.000000</UVRotate>
+			<ExtraParameters>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+			</ExtraParameters>
+		</Attributes>
+	</Material>
+	<Material Version="1.4.0" Name="ENNA-3" Guid="{94F0F13A-FC22-482A-89AF-5A240E3C77BF}" SurfaceType="PAINT" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
+		<TagList/>
+		<FlagList/>
+		<TextureList>
+			<Texture FileName="TEXTURE\ENNA_TAXINUMBERS_SQ512_3_B.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
+		</TextureList>
+		<Attributes>
+			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
+			<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
+			<UVOffset U="0.000000" V="0.000000"/>
+			<UVScale U="1.000000" V="1.000000"/>
+			<UVRotate>0.000000</UVRotate>
+			<ExtraParameters>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+			</ExtraParameters>
+		</Attributes>
+	</Material>
+	<Material Version="1.4.0" Name="ENNA-1" Guid="{85F9B3B8-D01F-4A58-ABAA-919B527BCB8A}" SurfaceType="PAINT" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
+		<TagList/>
+		<FlagList/>
+		<TextureList>
+			<Texture FileName="TEXTURE\ENNA_TAXINUMBERS_SQ512_1_B.PNG.DDS" Binding="MTL_BITMAP_DECAL0"/>
+		</TextureList>
+		<Attributes>
+			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
+			<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
+			<UVOffset U="0.000000" V="0.000000"/>
+			<UVScale U="1.000000" V="1.000000"/>
+			<UVRotate>0.000000</UVRotate>
+			<ExtraParameters>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+			</ExtraParameters>
+		</Attributes>
+	</Material>
+</Library>
+
