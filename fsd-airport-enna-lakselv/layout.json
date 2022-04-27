@@ -122,503 +122,533 @@
     },
     {
       "path": "scenery/fsd/scenery/enna-models.BGL",
-      "size": 5062650,
-      "date": 132951430022803742
+      "size": 5120620,
+      "date": 132954020564760618
     },
     {
       "path": "scenery/fsd/scenery/enna.bgl",
-      "size": 109702,
-      "date": 132951429596310800
+      "size": 109766,
+      "date": 132954019981882043
     },
     {
       "path": "scenery/fsd/scenery/texture/ENNA_CIRCLE_METALLIC_ALBEDO.PNG.DDS",
       "size": 11184952,
-      "date": 132951429826942437
+      "date": 132954020320277100
     },
     {
       "path": "scenery/fsd/scenery/texture/ENNA_CIRCLE_METALLIC_ALBEDO.PNG.DDS.json",
       "size": 102,
-      "date": 132951429826842434
+      "date": 132954020319786236
     },
     {
       "path": "scenery/fsd/scenery/texture/ENNA_CIRCLE_METALLIC_METAL.PNG.DDS",
       "size": 11184952,
-      "date": 132951429962335460
+      "date": 132954020493934652
     },
     {
       "path": "scenery/fsd/scenery/texture/ENNA_CIRCLE_METALLIC_METAL.PNG.DDS.json",
       "size": 166,
-      "date": 132951429962255447
+      "date": 132954020493834680
     },
     {
       "path": "scenery/fsd/scenery/texture/ENNA_CIRCLE_METALLIC_NORMAL.PNG.DDS",
       "size": 22369776,
-      "date": 132951429906541292
+      "date": 132954020421215405
     },
     {
       "path": "scenery/fsd/scenery/texture/ENNA_CIRCLE_METALLIC_NORMAL.PNG.DDS.json",
       "size": 160,
-      "date": 132951429906371292
+      "date": 132954020421035402
     },
     {
       "path": "scenery/fsd/scenery/texture/ENNA_CIRLE_FRAMES_METAL.PNG.DDS",
       "size": 11184952,
-      "date": 132951429837642436
+      "date": 132954020335625659
     },
     {
       "path": "scenery/fsd/scenery/texture/ENNA_CIRLE_FRAMES_METAL.PNG.DDS.json",
       "size": 166,
-      "date": 132951429837562436
+      "date": 132954020335515784
     },
     {
       "path": "scenery/fsd/scenery/texture/ENNA_CIRLE_FRAMES_NORMAL.PNG.DDS",
       "size": 22369776,
-      "date": 132951429761227077
+      "date": 132954020231775184
     },
     {
       "path": "scenery/fsd/scenery/texture/ENNA_CIRLE_FRAMES_NORMAL.PNG.DDS.json",
       "size": 160,
-      "date": 132951429761077060
+      "date": 132954020231565183
     },
     {
       "path": "scenery/fsd/scenery/texture/ENNA_CIRLE_PLASTIC_ALBEDO.PNG.DDS",
       "size": 11184952,
-      "date": 132951429756607051
+      "date": 132954020225494061
     },
     {
       "path": "scenery/fsd/scenery/texture/ENNA_CIRLE_PLASTIC_ALBEDO.PNG.DDS.json",
       "size": 102,
-      "date": 132951429756527054
+      "date": 132954020225414042
     },
     {
       "path": "scenery/fsd/scenery/texture/ENNA_CIRLE_PLASTIC_METAL.PNG.DDS",
       "size": 11184952,
-      "date": 132951429996972615
+      "date": 132954020533635275
     },
     {
       "path": "scenery/fsd/scenery/texture/ENNA_CIRLE_PLASTIC_METAL.PNG.DDS.json",
       "size": 166,
-      "date": 132951429996882614
+      "date": 132954020533535280
     },
     {
       "path": "scenery/fsd/scenery/texture/ENNA_CIRLE_PLASTIC_NORMAL.PNG.DDS",
       "size": 22369776,
-      "date": 132951429884644989
+      "date": 132954020396539194
     },
     {
       "path": "scenery/fsd/scenery/texture/ENNA_CIRLE_PLASTIC_NORMAL.PNG.DDS.json",
       "size": 160,
-      "date": 132951429884464986
+      "date": 132954020396369191
     },
     {
       "path": "scenery/fsd/scenery/texture/ENNA_DOOR_FRAMES_METAL.PNG.DDS",
       "size": 11184952,
-      "date": 132951429683857235
+      "date": 132954020132907435
     },
     {
       "path": "scenery/fsd/scenery/texture/ENNA_DOOR_FRAMES_METAL.PNG.DDS.json",
       "size": 166,
-      "date": 132951429683767233
+      "date": 132954020132817440
     },
     {
       "path": "scenery/fsd/scenery/texture/ENNA_DOOR_FRAMES_NORMAL.PNG.DDS",
       "size": 22369776,
-      "date": 132951429812262330
+      "date": 132954020300519664
     },
     {
       "path": "scenery/fsd/scenery/texture/ENNA_DOOR_FRAMES_NORMAL.PNG.DDS.json",
       "size": 160,
-      "date": 132951429812102311
+      "date": 132954020300349740
     },
     {
       "path": "scenery/fsd/scenery/texture/ENNA_TERM_CONCMET_ALBEDO.PNG.DDS",
       "size": 11184952,
-      "date": 132951429709655942
+      "date": 132954020162661083
     },
     {
       "path": "scenery/fsd/scenery/texture/ENNA_TERM_CONCMET_ALBEDO.PNG.DDS.json",
       "size": 102,
-      "date": 132951429709575929
+      "date": 132954020162570721
     },
     {
       "path": "scenery/fsd/scenery/texture/ENNA_TERM_CONCMET_METAL.PNG.DDS",
       "size": 11184952,
-      "date": 132951429914950934
+      "date": 132954020432505398
     },
     {
       "path": "scenery/fsd/scenery/texture/ENNA_TERM_CONCMET_METAL.PNG.DDS.json",
       "size": 166,
-      "date": 132951429914870934
+      "date": 132954020432375427
     },
     {
       "path": "scenery/fsd/scenery/texture/ENNA_TERM_CONCMET_NORMAL.PNG.DDS",
       "size": 22369776,
-      "date": 132951429986895440
+      "date": 132954020520388964
     },
     {
       "path": "scenery/fsd/scenery/texture/ENNA_TERM_CONCMET_NORMAL.PNG.DDS.json",
       "size": 160,
-      "date": 132951429986745454
+      "date": 132954020520209028
     },
     {
       "path": "scenery/fsd/scenery/texture/ENNA_TERM_METAL_ALBEDO.PNG.DDS",
       "size": 11184952,
-      "date": 132951429981685441
+      "date": 132954020514658969
     },
     {
       "path": "scenery/fsd/scenery/texture/ENNA_TERM_METAL_ALBEDO.PNG.DDS.json",
       "size": 102,
-      "date": 132951429981585456
+      "date": 132954020514559000
     },
     {
       "path": "scenery/fsd/scenery/texture/ENNA_TERM_METAL_METAL.PNG.DDS",
       "size": 11184952,
-      "date": 132951429770527828
+      "date": 132954020245972113
     },
     {
       "path": "scenery/fsd/scenery/texture/ENNA_TERM_METAL_METAL.PNG.DDS.json",
       "size": 166,
-      "date": 132951429770427851
+      "date": 132954020245872114
     },
     {
       "path": "scenery/fsd/scenery/texture/ENNA_TERM_METAL_NORMAL.PNG.DDS",
       "size": 22369776,
-      "date": 132951429714986804
+      "date": 132954020168940118
     },
     {
       "path": "scenery/fsd/scenery/texture/ENNA_TERM_METAL_NORMAL.PNG.DDS.json",
       "size": 160,
-      "date": 132951429714826831
+      "date": 132954020168770115
     },
     {
       "path": "scenery/fsd/scenery/texture/ENNA_TERM_ROOF_ALBEDO.PNG.DDS",
       "size": 11184952,
-      "date": 132951429806935933
+      "date": 132954020292723621
     },
     {
       "path": "scenery/fsd/scenery/texture/ENNA_TERM_ROOF_ALBEDO.PNG.DDS.json",
       "size": 102,
-      "date": 132951429806865943
+      "date": 132954020292613616
     },
     {
       "path": "scenery/fsd/scenery/texture/ENNA_TERM_ROOF_METAL.PNG.DDS",
       "size": 11184952,
-      "date": 132951429723695633
+      "date": 132954020182537337
     },
     {
       "path": "scenery/fsd/scenery/texture/ENNA_TERM_ROOF_METAL.PNG.DDS.json",
       "size": 166,
-      "date": 132951429723615627
+      "date": 132954020182447338
     },
     {
       "path": "scenery/fsd/scenery/texture/ENNA_TERM_ROOF_NORMAL.PNG.DDS",
       "size": 22369776,
-      "date": 132951429861048639
+      "date": 132954020365003998
     },
     {
       "path": "scenery/fsd/scenery/texture/ENNA_TERM_ROOF_NORMAL.PNG.DDS.json",
       "size": 160,
-      "date": 132951429860898641
+      "date": 132954020364773980
     },
     {
       "path": "scenery/fsd/scenery/texture/ENNA_TERM_WOODCONC_TWR_ALBEDO.PNG.DDS",
       "size": 11184952,
-      "date": 132951429792055941
+      "date": 132954020275232114
     },
     {
       "path": "scenery/fsd/scenery/texture/ENNA_TERM_WOODCONC_TWR_ALBEDO.PNG.DDS.json",
       "size": 102,
-      "date": 132951429791975909
+      "date": 132954020275122133
     },
     {
       "path": "scenery/fsd/scenery/texture/ENNA_TERM_WOODCONC_TWR_METAL.PNG.DDS",
       "size": 11184952,
-      "date": 132951429953783429
+      "date": 132954020482047985
     },
     {
       "path": "scenery/fsd/scenery/texture/ENNA_TERM_WOODCONC_TWR_METAL.PNG.DDS.json",
       "size": 166,
-      "date": 132951429953698207
+      "date": 132954020481947989
     },
     {
       "path": "scenery/fsd/scenery/texture/ENNA_TERM_WOODCONC_TWR_NORMAL.PNG.DDS",
       "size": 22369776,
-      "date": 132951429866749791
+      "date": 132954020371801684
     },
     {
       "path": "scenery/fsd/scenery/texture/ENNA_TERM_WOODCONC_TWR_NORMAL.PNG.DDS.json",
       "size": 160,
-      "date": 132951429866579788
+      "date": 132954020371621676
     },
     {
       "path": "scenery/fsd/scenery/texture/ENNA_TERM_WOOD_002_ALBEDO.PNG.DDS",
       "size": 11184952,
-      "date": 132951429929850799
+      "date": 132954020447964103
     },
     {
       "path": "scenery/fsd/scenery/texture/ENNA_TERM_WOOD_002_ALBEDO.PNG.DDS.json",
       "size": 102,
-      "date": 132951429929770967
+      "date": 132954020447854113
     },
     {
       "path": "scenery/fsd/scenery/texture/ENNA_TERM_WOOD_002_METAL.PNG.DDS",
       "size": 11184952,
-      "date": 132951430008695788
+      "date": 132954020548789632
     },
     {
       "path": "scenery/fsd/scenery/texture/ENNA_TERM_WOOD_002_METAL.PNG.DDS.json",
       "size": 166,
-      "date": 132951430008615805
+      "date": 132954020548679657
     },
     {
       "path": "scenery/fsd/scenery/texture/ENNA_TERM_WOOD_002_NORMAL.PNG.DDS",
       "size": 22369776,
-      "date": 132951429691147271
+      "date": 132954020142673098
     },
     {
       "path": "scenery/fsd/scenery/texture/ENNA_TERM_WOOD_002_NORMAL.PNG.DDS.json",
       "size": 160,
-      "date": 132951429690982096
+      "date": 132954020142473121
     },
     {
       "path": "scenery/fsd/scenery/texture/ENNA_TOWER_BLUE_METAL.PNG.DDS",
       "size": 11184952,
-      "date": 132951429941447068
+      "date": 132954020464526162
     },
     {
       "path": "scenery/fsd/scenery/texture/ENNA_TOWER_BLUE_METAL.PNG.DDS.json",
       "size": 166,
-      "date": 132951429941347066
+      "date": 132954020464416166
     },
     {
       "path": "scenery/fsd/scenery/texture/ENNA_TOWER_BLUE_NORMAL.PNG.DDS",
       "size": 22369776,
-      "date": 132951429776597839
+      "date": 132954020255512114
     },
     {
       "path": "scenery/fsd/scenery/texture/ENNA_TOWER_BLUE_NORMAL.PNG.DDS.json",
       "size": 160,
-      "date": 132951429776447829
+      "date": 132954020254992170
     },
     {
       "path": "scenery/fsd/scenery/texture/ENNA_TOWER_METAL_ALBEDO.PNG.DDS",
       "size": 11184952,
-      "date": 132951429901011289
+      "date": 132954020414329202
     },
     {
       "path": "scenery/fsd/scenery/texture/ENNA_TOWER_METAL_ALBEDO.PNG.DDS.json",
       "size": 102,
-      "date": 132951429900921317
+      "date": 132954020414149262
     },
     {
       "path": "scenery/fsd/scenery/texture/ENNA_TOWER_METAL_METAL.PNG.DDS",
       "size": 11184952,
-      "date": 132951429735805637
+      "date": 132954020200544950
     },
     {
       "path": "scenery/fsd/scenery/texture/ENNA_TOWER_METAL_METAL.PNG.DDS.json",
       "size": 166,
-      "date": 132951429735715630
+      "date": 132954020200434324
     },
     {
       "path": "scenery/fsd/scenery/texture/ENNA_TOWER_METAL_NORMAL.PNG.DDS",
       "size": 22369776,
-      "date": 132951429741488423
+      "date": 132954020207574850
     },
     {
       "path": "scenery/fsd/scenery/texture/ENNA_TOWER_METAL_NORMAL.PNG.DDS.json",
       "size": 160,
-      "date": 132951429741338406
+      "date": 132954020207414298
     },
     {
       "path": "scenery/fsd/scenery/texture/ENNA_TOWER_WINDOWS_METAL.PNG.DDS",
       "size": 11184952,
-      "date": 132951429879604319
+      "date": 132954020390486948
     },
     {
       "path": "scenery/fsd/scenery/texture/ENNA_TOWER_WINDOWS_METAL.PNG.DDS.json",
       "size": 166,
-      "date": 132951429879524339
+      "date": 132954020390366968
     },
     {
       "path": "scenery/fsd/scenery/texture/ENNA_TOWER_WINDOWS_NORMAL.PNG.DDS",
       "size": 22369776,
-      "date": 132951429695194644
+      "date": 132954020147704805
     },
     {
       "path": "scenery/fsd/scenery/texture/ENNA_TOWER_WINDOWS_NORMAL.PNG.DDS.json",
       "size": 160,
-      "date": 132951429695044644
+      "date": 132954020147509703
     },
     {
       "path": "scenery/fsd/scenery/texture/EVERYTHING_ALBEDO.PNG.DDS",
       "size": 11184952,
-      "date": 132951429612310801
+      "date": 132954019998807358
     },
     {
       "path": "scenery/fsd/scenery/texture/EVERYTHING_ALBEDO.PNG.DDS.json",
       "size": 102,
-      "date": 132951429612230812
+      "date": 132954019998707359
     },
     {
       "path": "scenery/fsd/scenery/texture/EVERYTHING_METAL.PNG.DDS",
       "size": 11184952,
-      "date": 132951429628873014
+      "date": 132954020022017902
     },
     {
       "path": "scenery/fsd/scenery/texture/EVERYTHING_METAL.PNG.DDS.json",
       "size": 166,
-      "date": 132951429628803017
+      "date": 132954020021897916
     },
     {
       "path": "scenery/fsd/scenery/texture/EVERYTHING_NORMAL.PNG.DDS",
       "size": 22369776,
-      "date": 132951429618703012
+      "date": 132954020007647899
     },
     {
       "path": "scenery/fsd/scenery/texture/EVERYTHING_NORMAL.PNG.DDS.json",
       "size": 160,
-      "date": 132951429618553009
+      "date": 132954020007457898
     },
     {
       "path": "scenery/fsd/scenery/texture/GLASS_METAL.PNG.DDS",
       "size": 11184952,
-      "date": 132951429673445937
+      "date": 132954020117437437
     },
     {
       "path": "scenery/fsd/scenery/texture/GLASS_METAL.PNG.DDS.json",
       "size": 166,
-      "date": 132951429673355938
+      "date": 132954020117327436
     },
     {
       "path": "scenery/fsd/scenery/texture/GLASS_NORMAL.PNG.DDS",
       "size": 22369776,
-      "date": 132951429966495436
+      "date": 132954020498364646
     },
     {
       "path": "scenery/fsd/scenery/texture/GLASS_NORMAL.PNG.DDS.json",
       "size": 160,
-      "date": 132951429966345462
+      "date": 132954020498204663
+    },
+    {
+      "path": "scenery/fsd/scenery/texture/MATERIAL_002_ALBEDO.PNG.DDS",
+      "size": 11184952,
+      "date": 132954020091472835
+    },
+    {
+      "path": "scenery/fsd/scenery/texture/MATERIAL_002_ALBEDO.PNG.DDS.json",
+      "size": 102,
+      "date": 132954020091332844
+    },
+    {
+      "path": "scenery/fsd/scenery/texture/MATERIAL_002_METAL.PNG.DDS",
+      "size": 11184952,
+      "date": 132954020071886109
+    },
+    {
+      "path": "scenery/fsd/scenery/texture/MATERIAL_002_METAL.PNG.DDS.json",
+      "size": 166,
+      "date": 132954020071706068
+    },
+    {
+      "path": "scenery/fsd/scenery/texture/MATERIAL_002_NORMAL.PNG.DDS",
+      "size": 22369776,
+      "date": 132954020098414094
+    },
+    {
+      "path": "scenery/fsd/scenery/texture/MATERIAL_002_NORMAL.PNG.DDS.json",
+      "size": 160,
+      "date": 132954020098174150
     },
     {
       "path": "scenery/fsd/scenery/texture/MILITARY_1_ALBEDO.PNG.DDS",
       "size": 11184952,
-      "date": 132951429646819209
+      "date": 132954020040474457
     },
     {
       "path": "scenery/fsd/scenery/texture/MILITARY_1_ALBEDO.PNG.DDS.json",
       "size": 102,
-      "date": 132951429646739211
+      "date": 132954020040374453
     },
     {
       "path": "scenery/fsd/scenery/texture/MILITARY_1_METAL.PNG.DDS",
       "size": 11184952,
-      "date": 132951429661875941
+      "date": 132954020060120057
     },
     {
       "path": "scenery/fsd/scenery/texture/MILITARY_1_METAL.PNG.DDS.json",
       "size": 166,
-      "date": 132951429661775938
+      "date": 132954020060010031
     },
     {
       "path": "scenery/fsd/scenery/texture/MILITARY_1_NORMAL.PNG.DDS",
       "size": 22369776,
-      "date": 132951429651839211
+      "date": 132954020046264776
     },
     {
       "path": "scenery/fsd/scenery/texture/MILITARY_1_NORMAL.PNG.DDS.json",
       "size": 160,
-      "date": 132951429651669232
+      "date": 132954020046074775
     },
     {
       "path": "scenery/fsd/scenery/texture/RED__.PNG.DDS",
       "size": 1996000,
-      "date": 132951429630843013
+      "date": 132954020024227919
     },
     {
       "path": "scenery/fsd/scenery/texture/RED__.PNG.DDS.json",
       "size": 119,
-      "date": 132951429630823013
+      "date": 132954020024197897
     },
     {
       "path": "scenery/fsd/scenery/texture/RNOAF_6CREWA.PNG.DDS",
       "size": 2796344,
-      "date": 132951430014254370
+      "date": 132954020555580591
     },
     {
       "path": "scenery/fsd/scenery/texture/RNOAF_6CREWA.PNG.DDS.json",
       "size": 102,
-      "date": 132951430014224386
+      "date": 132954020555550591
     },
     {
       "path": "scenery/fsd/scenery/texture/RNOAF_6CREW_A_COMP.PNG.DDS",
       "size": 2796344,
-      "date": 132951430015713761
+      "date": 132954020557140590
     },
     {
       "path": "scenery/fsd/scenery/texture/RNOAF_6CREW_A_COMP.PNG.DDS.json",
       "size": 166,
-      "date": 132951430015693741
+      "date": 132954020557100590
     },
     {
       "path": "scenery/fsd/scenery/texture/SEE-THROUGH.PNG.DDS",
       "size": 5616,
-      "date": 132951429901071306
+      "date": 132954020415039207
     },
     {
       "path": "scenery/fsd/scenery/texture/SEE-THROUGH.PNG.DDS.json",
       "size": 119,
-      "date": 132951429901061289
+      "date": 132954020415039207
     },
     {
       "path": "scenery/fsd/scenery/texture/WENXX_LIGHT_ROUNDYELLOW_LIGHT.PNG.DDS",
       "size": 87536,
-      "date": 132951430019603757
+      "date": 132954020562300616
     },
     {
       "path": "scenery/fsd/scenery/texture/WENXX_LIGHT_ROUNDYELLOW_LIGHT.PNG.DDS.json",
       "size": 119,
-      "date": 132951430019593739
+      "date": 132954020562290719
     },
     {
       "path": "scenery/fsd/scenery/texture/WENXX_MASTGRIDB10P.PNG.DDS",
       "size": 87536,
-      "date": 132951430019133742
+      "date": 132954020561750591
     },
     {
       "path": "scenery/fsd/scenery/texture/WENXX_MASTGRIDB10P.PNG.DDS.json",
       "size": 119,
-      "date": 132951430019123745
+      "date": 132954020561740593
     },
     {
       "path": "scenery/fsd/scenery/texture/WENXX_PARALLAX_4X4_TESTSQUARE.PNG.DDS",
       "size": 11184952,
-      "date": 132951429853119624
+      "date": 132954020352325524
     },
     {
       "path": "scenery/fsd/scenery/texture/WENXX_PARALLAX_4X4_TESTSQUARE.PNG.DDS.json",
       "size": 102,
-      "date": 132951429853019626
+      "date": 132954020352235572
     },
     {
       "path": "scenery/fsd/scenery/texture/WENXX_WALL1K_NOISEA_NORM.PNG.DDS",
       "size": 1398256,
-      "date": 132951430017603744
+      "date": 132954020559250598
     },
     {
       "path": "scenery/fsd/scenery/texture/WENXX_WALL1K_NOISEA_NORM.PNG.DDS.json",
       "size": 160,
-      "date": 132951430017583746
+      "date": 132954020559230603
     },
     {
       "path": "scenery/fsd/scenery/texture/WENXX_WALL32_CORRUGATED3_NORM.PNG.DDS",
       "size": 1520,
-      "date": 132951430017623741
+      "date": 132954020560200588
     },
     {
       "path": "scenery/fsd/scenery/texture/WENXX_WALL32_CORRUGATED3_NORM.PNG.DDS.json",
       "size": 160,
-      "date": 132951430017623741
+      "date": 132954020560200588
     }
   ]
 }
